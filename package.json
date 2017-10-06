@@ -1,0 +1,15 @@
+{
+  "name": "my-package",
+  "version": "1.0.0",
+  "description": "Short project summary",
+  "main": "index.js",
+  "scripts": {
+    "myscript": "ENV=development node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Isaiah Christou",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.1.0"
+  }
+}
